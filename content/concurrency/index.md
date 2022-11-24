@@ -3,7 +3,7 @@ emoji: 📝
 title: '동시성 문제를 해결하기 위한 여러가지 방법'   
 date: '2022-11-16 23:00:00'  
 author: 어썸오  
-tags: java
+tags: concurrency
 categories: projects
 ---  
 
